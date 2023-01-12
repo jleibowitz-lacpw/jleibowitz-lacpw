@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jleibowitz-lacpw (Jon Leibowitz)
 - 📫 How to reach me - find me on Teams
-
+- ✏️ text editor of choice: `vim`
 
 I'm in the Web Administration team, 1st floor, Annex, Alhambra. I fully embrace the DevOps philosophy (CALMS - Collaboration, Automation, Learning, Measurement, and Sharing).
 
