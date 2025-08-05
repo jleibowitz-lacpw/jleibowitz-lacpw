@@ -2,7 +2,7 @@
 - 📫 How to reach me - find me on Teams
 - ✏️ text editor of choice: `vim`
 
-I'm in the Web Administration team, 12th floor, HQ, Alhambra. I fully embrace DevOps philosophies ([CALMS - Collaboration, Automation, Learning, Measurement, and Sharing](https://www.atlassian.com/devops/frameworks/calms-framework)) and would like to do a case study on how SRE culture can be cultivated within public sector organizations.
+I'm in the Web Administration team, 12th floor, HQ, Alhambra. I fully embrace DevOps philosophies ([CALMS - Collaboration, Automation, Learning, Measurement, and Sharing](https://atlassian.com/devops/frameworks/calms-framework)) and would like to do a case study on how SRE culture can be cultivated within public sector organizations.
 
 I'm a student at Pasadena City College and intend to transfer in 2026 to Cal State LA, studying [Computer Information Systems](https://ecatalog.calstatela.edu/preview_program.php?catoid=75&poid=34309#core_276193).
 
