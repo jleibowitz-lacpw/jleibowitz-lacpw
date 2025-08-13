@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jleibowitz-lacpw (Jon Leibowitz)
 - 📫 How to reach me - find me on Teams
 - ✏️ text editor of choice: `vim`
-- 🌐 perennial obsession: DNS
+- 🌐 perennial obsession: [DNS](https://rfc-annotations.research.icann.org/)
 
 I'm in the Web Administration team, 12th floor, HQ, Alhambra. I fully embrace DevOps philosophies ([CALMS - Collaboration, Automation, Learning, Measurement, and Sharing](https://benjitrapp.github.io/cultures/2022-03-30-CALMS-devops/)) and would like to do a case study on how SRE culture can be cultivated within public sector organizations.
 
