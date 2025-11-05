@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jleibowitz-lacpw (Jon Leibowitz)
-- 📫 How to reach me - find me on Teams
+- 📫 How to reach me - find me on Teams, or open an issue on one of the projects here.
 - ✏️ text editor of choice: `vim`
 - 🌐 perennial obsession: [DNS](https://rfc-annotations.research.icann.org/)
 
