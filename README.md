@@ -3,7 +3,7 @@
 - ✏️ text editor of choice: `vim`
 - 🌐 perennial obsession: [DNS](https://rfc-annotations.research.icann.org/)
 
-I'm in the Web Administration team, 12th floor, HQ, Alhambra (which is in the midst of being rebranded to *DevSecOps*, it has been said). I fully embrace DevOps philosophies ([CALMS - Collaboration, Automation, Learning, Measurement, and Sharing](https://benjitrapp.github.io/cultures/2022-03-30-CALMS-devops/)) and would like to do a case study on how SRE culture can be cultivated within public sector organizations.
+I'm in the Web Administration team, 12th floor, HQ, Alhambra (which, it has been said, is in the midst of being rebranded to *DevSecOps*). I fully embrace DevOps philosophies ([CALMS - Collaboration, Automation, Learning, Measurement, and Sharing](https://benjitrapp.github.io/cultures/2022-03-30-CALMS-devops/)) and would like to do a case study on how SRE culture can be cultivated within public sector organizations.
 
 I'm a student at Pasadena City College and intend to transfer in 2026 to Cal State LA, studying [Computer Information Systems](https://ecatalog.calstatela.edu/preview_program.php?catoid=75&poid=34309#core_276193).
 
