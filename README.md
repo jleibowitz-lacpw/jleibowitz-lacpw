@@ -2,6 +2,7 @@
 - 📫 How to reach me - find me on Teams, or open an issue on one of my repositories.
 - ✏️ text editor of choice: `vim`
 - 🌐 perennial obsession: [DNS](https://rfc-annotations.research.icann.org/)
+- Aspirational Site Reliability Engineer
 
 I'm in the Web Administration team, 12th floor, HQ, Alhambra (which, it has been said, is in the midst of being rebranded to *DevSecOps*). I fully embrace DevOps philosophies ([CALMS - Collaboration, Automation, Learning, Measurement, and Sharing](https://benjitrapp.github.io/cultures/2022-03-30-CALMS-devops/)) and would like to do a case study on how SRE culture can be cultivated within public sector organizations.
 
