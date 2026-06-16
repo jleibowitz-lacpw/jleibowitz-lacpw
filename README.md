@@ -6,7 +6,7 @@
 
 I'm in the Web Administration team, 12th floor, HQ, Alhambra (which, it has been said, is in the midst of being rebranded to *DevSecOps*). I fully embrace DevOps philosophies ([CALMS - Collaboration, Automation, Learning, Measurement, and Sharing](https://benjitrapp.github.io/cultures/2022-03-30-CALMS-devops/)) and would like to do a case study on how SRE culture can be cultivated within public sector organizations.
 
-I'm a student at Pasadena City College transferring to Cal State LA in Fall 2026, studying [Computer Information Systems](https://ecatalog.calstatela.edu/preview_program.php?catoid=75&poid=34309#core_276193).
+I'm a student at Cal State LA studying [Computer Information Systems](https://ecatalog.calstatela.edu/preview_program.php?catoid=75&poid=34309#core_276193). I graduated [Pasadena City College](https://grad.tassel.com/announcement/4ec8dc8ef) in 2026.
 
 ### 
 Join my upcoming *office hours* sessions. 
