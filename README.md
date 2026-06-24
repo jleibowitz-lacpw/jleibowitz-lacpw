@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jleibowitz-lacpw (Jon Leibowitz)
 - 📫 How to reach me - find me on Teams, or open an issue on one of my repositories.
-- ✏️ text editor of choice: `vim`
+- ✏️ text editor of choice: [vim](https://www.vim.org/about.php)
 - 🌐 perennial obsession: [DNS](https://rfc-annotations.research.icann.org/)
 - Aspirational Site Reliability Engineer
 
