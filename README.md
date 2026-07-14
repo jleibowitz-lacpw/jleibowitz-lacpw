@@ -2,7 +2,7 @@
 - 📫 How to reach me - find me on Teams, or open an issue on one of my repositories.
 - ✏️ text editor of choice: [vim](https://www.vim.org/about.php)
 - 🌐 perennial obsession: [DNS](https://rfc-annotations.research.icann.org/)
-- Aspirational Site Reliability Engineer
+- manifesting site reliability engineering into reality
 
 This GitHub account is tied directly to my usage within Los Angeles County alone. My ["PERSONAL" github account is here.](https://github.com/jonleibowitz)
 
