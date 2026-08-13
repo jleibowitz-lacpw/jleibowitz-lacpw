@@ -8,7 +8,7 @@ This GitHub account is tied directly to my usage within Los Angeles County alone
 
 I'm in the Cloud and Application Security sub-unit, 12th floor, HQ, Alhambra, formerly known as *Web Admin*. This is a group within Alexander Koffi's *DevSecOps* unit. I fully embrace DevOps philosophies ([CALMS - Collaboration, Automation, Learning, Measurement, and Sharing](https://benjitrapp.github.io/cultures/2022-03-30-CALMS-devops/)) and would like to do a case study on how SRE culture can be cultivated within public sector organizations.
 
-I'm a student at Cal State LA studying [Computer Information Systems](https://ecatalog.calstatela.edu/preview_program.php?catoid=75&poid=34309#core_276193). I graduated [Pasadena City College](https://grad.tassel.com/announcement/4ec8dc8ef) in 2026, with *Administration Honors*.
+I'm a student at Cal State LA studying [Computer Information Systems](https://ecatalog.calstatela.edu/preview_program.php?catoid=75&poid=34309#core_276193). I graduated [Pasadena City College](https://grad.tassel.com/announcement/4ec8dc8ef) in 2026, with *Administration Honors* Associates in [CIS-Cybersecurity, CIS-System and Network Administration](https://curriculum.pasadena.edu/academic-programs/computer-information-systems/#programstext), and [Business](https://curriculum.pasadena.edu/academic-programs/business-administration/business-aa/).
 
 ### 
 I hold unscheduled *office hours* sessions to discuss or teach things that might be common in the cloud native world (platform engineering is the new hot thing but I am very fond of system administration as a discipline so I'm happy to share what I know, whether it's RFCs, networking, development, delivery etc). I'm trying to figure out the m365 booking platform, I'll add a link soon.
