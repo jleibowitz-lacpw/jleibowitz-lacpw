@@ -11,7 +11,7 @@ I'm in the Cloud and Application Security sub-unit, 12th floor, HQ, Alhambra, fo
 I'm a student at Cal State LA studying [Computer Information Systems](https://ecatalog.calstatela.edu/preview_program.php?catoid=75&poid=34309#core_276193). I graduated [Pasadena City College](https://grad.tassel.com/announcement/4ec8dc8ef) in 2026, with *Administration Honors* Associates in [CIS-Cybersecurity, CIS-System and Network Administration](https://curriculum.pasadena.edu/academic-programs/computer-information-systems/#programstext), and [Business](https://curriculum.pasadena.edu/academic-programs/business-administration/business-aa/).
 
 ### 
-I hold unscheduled *office hours* sessions to discuss or teach things that might be common in the cloud native world. Platform engineering is the new hot thing but I am very fond of system administration as a discipline so I'm happy to share what I know, whether it's RFCs, networking, development, delivery etc). I'm trying to figure out the [m365 "Bookings" platform](https://bookings.cloud.microsoft), I'll add a link soon.
+I hold unscheduled *office hours* sessions to discuss or teach things that might be common in the cloud native world. Platform engineering is the new hot thing but I am very fond of system administration as a discipline; I'm happy to share what I know, whether it's RFCs, networking, development, delivery etc. I'm trying to figure out the [m365 "Bookings" platform](https://bookings.cloud.microsoft), I'll add a link soon.
 <!---
 jleibowitz-lacpw/jleibowitz-lacpw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
