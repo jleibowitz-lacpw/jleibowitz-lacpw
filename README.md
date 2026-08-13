@@ -6,7 +6,7 @@
 
 This GitHub account is tied directly to my usage within Los Angeles County alone. My ["PERSONAL" github account is here.](https://github.com/jonleibowitz)
 
-I'm in the Cloud and Application Security sub-unit, 12th floor, HQ, Alhambra (which, it has been said, is in the midst of being rebranded to *DevSecOps*). I fully embrace DevOps philosophies ([CALMS - Collaboration, Automation, Learning, Measurement, and Sharing](https://benjitrapp.github.io/cultures/2022-03-30-CALMS-devops/)) and would like to do a case study on how SRE culture can be cultivated within public sector organizations.
+I'm in the Cloud and Application Security sub-unit, 12th floor, HQ, Alhambra, formerly known as *Web Admin*. This is a group within Alexander Koffi's *DevSecOps* unit. I fully embrace DevOps philosophies ([CALMS - Collaboration, Automation, Learning, Measurement, and Sharing](https://benjitrapp.github.io/cultures/2022-03-30-CALMS-devops/)) and would like to do a case study on how SRE culture can be cultivated within public sector organizations.
 
 I'm a student at Cal State LA studying [Computer Information Systems](https://ecatalog.calstatela.edu/preview_program.php?catoid=75&poid=34309#core_276193). I graduated [Pasadena City College](https://grad.tassel.com/announcement/4ec8dc8ef) in 2026, with *Administration Honors*.
 
